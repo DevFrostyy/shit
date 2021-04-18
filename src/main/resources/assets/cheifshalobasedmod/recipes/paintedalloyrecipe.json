@@ -1,0 +1,42 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "1": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "2": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "3": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "4": {
+      "item": "cheifshalobasedmod:militarygradepaint"
+    },
+    "5": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "6": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "7": {
+      "item": "cheifshalobasedmod:alloyingot"
+    },
+    "8": {
+      "item": "cheifshalobasedmod:alloyingot"
+    }
+  },
+  "result": {
+    "item": "cheifshalobasedmod:paintedingot",
+    "count": 8
+  }
+}

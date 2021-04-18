@@ -1,0 +1,20 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "cheifshalobasedmod:paintbase",
+    "count": 3
+  }
+}

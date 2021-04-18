@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "tab",
+  "definition": {
+    "name": "Chiefs Halo Based Mod",
+    "icon": {
+      "value": "CUSTOM:ChiefsArmor.helmet"
+    },
+    "showSearch": false
+  }
+}

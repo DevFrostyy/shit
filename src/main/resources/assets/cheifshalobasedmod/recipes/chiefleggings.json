@@ -1,0 +1,36 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "cheifshalobasedmod:paintedingot"
+    },
+    "1": {
+      "item": "cheifshalobasedmod:paintedingot"
+    },
+    "2": {
+      "item": "cheifshalobasedmod:paintedingot"
+    },
+    "3": {
+      "item": "cheifshalobasedmod:titaniumfabric"
+    },
+    "5": {
+      "item": "cheifshalobasedmod:titaniumfabric"
+    },
+    "6": {
+      "item": "cheifshalobasedmod:paintedingot"
+    },
+    "8": {
+      "item": "cheifshalobasedmod:paintedingot"
+    }
+  },
+  "result": {
+    "item": "cheifshalobasedmod:chiefsarmorlegs",
+    "count": 1
+  }
+}

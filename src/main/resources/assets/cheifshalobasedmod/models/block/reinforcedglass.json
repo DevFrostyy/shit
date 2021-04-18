@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cheifshalobasedmod:blocks/reinforcedglass",
+    "up": "cheifshalobasedmod:blocks/reinforcedglass",
+    "north": "cheifshalobasedmod:blocks/reinforcedglass",
+    "east": "cheifshalobasedmod:blocks/reinforcedglass",
+    "south": "cheifshalobasedmod:blocks/reinforcedglass",
+    "west": "cheifshalobasedmod:blocks/reinforcedglass",
+    "particle": "cheifshalobasedmod:blocks/reinforcedglass"
+  }
+}

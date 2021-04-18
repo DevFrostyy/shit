@@ -1,0 +1,16 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "cheifshalobasedmod:titaniumpowder",
+    "count": 1
+  }
+}

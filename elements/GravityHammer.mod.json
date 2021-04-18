@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "ravity_ammer",
+    "customModelName": "hammer:default",
+    "name": "Gravity Hammer",
+    "creativeTab": {
+      "value": "CUSTOM:ChiefsHaloBasedMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 0.3,
+    "enchantability": 2,
+    "damageVsEntity": 100.0,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": []
+  }
+}

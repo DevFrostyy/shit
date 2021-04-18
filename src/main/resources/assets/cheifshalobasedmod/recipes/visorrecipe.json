@@ -1,0 +1,26 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "cheifshalobasedmod:reinforcedglass"
+    },
+    "1": {
+      "item": "cheifshalobasedmod:reinforcedglass"
+    },
+    "2": {
+      "item": "cheifshalobasedmod:reinforcedglass"
+    },
+    "4": {
+      "item": "cheifshalobasedmod:reinforcedglass"
+    }
+  },
+  "result": {
+    "item": "cheifshalobasedmod:visor",
+    "count": 1
+  }
+}

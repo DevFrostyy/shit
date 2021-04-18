@@ -1,0 +1,43 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "1": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "2": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "3": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "5": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "6": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "7": {
+      "item": "cheifshalobasedmod:paintbase"
+    },
+    "8": {
+      "item": "cheifshalobasedmod:paintbase"
+    }
+  },
+  "result": {
+    "item": "cheifshalobasedmod:militarygradepaint",
+    "count": 1
+  }
+}

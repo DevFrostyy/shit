@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "chief_helmet",
+    "enableBody": true,
+    "textureBody": "chief_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "chief_leggings",
+    "enableBoots": true,
+    "textureBoots": "chief_boots",
+    "creativeTab": {
+      "value": "CUSTOM:ChiefsHaloBasedMod"
+    },
+    "armorTextureFile": "chief_",
+    "helmetName": "Chief's Helmet",
+    "bodyName": "Chief's Chestplate",
+    "leggingsName": "Chief's Leggings",
+    "bootsName": "Chief's Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 400,
+    "damageValueHelmet": 300,
+    "damageValueBody": 300,
+    "damageValueLeggings": 300,
+    "damageValueBoots": 300,
+    "enchantability": 9,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": "block.anvil.place"
+    },
+    "repairItems": []
+  }
+}

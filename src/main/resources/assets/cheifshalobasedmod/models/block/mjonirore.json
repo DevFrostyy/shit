@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cheifshalobasedmod:blocks/mjolnirore",
+    "up": "cheifshalobasedmod:blocks/mjolnirore",
+    "north": "cheifshalobasedmod:blocks/mjolnirore",
+    "east": "cheifshalobasedmod:blocks/mjolnirore",
+    "south": "cheifshalobasedmod:blocks/mjolnirore",
+    "west": "cheifshalobasedmod:blocks/mjolnirore",
+    "particle": "cheifshalobasedmod:blocks/mjolnirore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cheifshalobasedmod:blocks/titaniumore",
+    "up": "cheifshalobasedmod:blocks/titaniumore",
+    "north": "cheifshalobasedmod:blocks/titaniumore",
+    "east": "cheifshalobasedmod:blocks/titaniumore",
+    "south": "cheifshalobasedmod:blocks/titaniumore",
+    "west": "cheifshalobasedmod:blocks/titaniumore",
+    "particle": "cheifshalobasedmod:blocks/titaniumore"
+  }
+}

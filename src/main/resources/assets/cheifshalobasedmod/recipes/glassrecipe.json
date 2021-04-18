@@ -1,0 +1,43 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "1": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "2": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "3": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "4": {
+      "item": "minecraft:stained_glass",
+      "data": 4
+    },
+    "5": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "6": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "7": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    "8": {
+      "item": "cheifshalobasedmod:titaniumingot"
+    }
+  },
+  "result": {
+    "item": "cheifshalobasedmod:reinforcedglass",
+    "count": 1
+  }
+}

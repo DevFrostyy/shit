@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "cheifshalobasedmod:chiefsarmorhelmet"
+    },
+    "title": {
+      "translate": "advancements.almightyone.title"
+    },
+    "description": {
+      "translate": "advancements.almightyone.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "almightyone": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

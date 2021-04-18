@@ -1,0 +1,16 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "cheifshalobasedmod:mjolniringot"
+    }
+  ],
+  "result": {
+    "item": "cheifshalobasedmod:mjolnirpowder",
+    "count": 1
+  }
+}

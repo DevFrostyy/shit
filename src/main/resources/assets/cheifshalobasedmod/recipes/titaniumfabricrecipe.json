@@ -1,0 +1,23 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "cheifshalobasedmod:titaniumingot"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "cheifshalobasedmod:titaniumfabric",
+    "count": 3
+  }
+}

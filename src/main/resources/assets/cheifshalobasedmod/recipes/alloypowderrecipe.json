@@ -1,0 +1,22 @@
+{
+  "group": "cheifshalobasedmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cheifshalobasedmod:titaniumpowder"
+    },
+    {
+      "item": "cheifshalobasedmod:mjolnirpowder"
+    },
+    {
+      "item": "cheifshalobasedmod:mjolnirpowder"
+    },
+    {
+      "item": "cheifshalobasedmod:titaniumpowder"
+    }
+  ],
+  "result": {
+    "item": "cheifshalobasedmod:mjoniralloypowder",
+    "count": 4
+  }
+}
